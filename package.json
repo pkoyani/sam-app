@@ -1,0 +1,10 @@
+{
+  "name": "ethopia-waza",
+  "description": "a delightfully fruity coffee varietal",
+  "version": "1.2.3",
+  "scripts": {
+    "build": "sam build",
+    "deploy": "sam deploy --guided"
+  },
+  "main": "lib/waza.js"
+}
